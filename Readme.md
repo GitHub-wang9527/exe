@@ -32,3 +32,15 @@
 | 8    | TODO add qt online install     |                        |
 | 9    | python-3.9.13-amd64            |                        |
 | 10   | DirectX修复工具                |                        |
+
++ 其他
+
+| 编号 | 名称                | 作用         |
+|------|---------------------|--------------|
+| 1    | Fluent.Reader.Setup | rss阅读器    |
+| 2    | Royal RSS Reader    | rss阅读器    |
+| 3    | irreader            | rss阅读器    |
+| 4    | VLCmediaplaye       |              |
+| 5    | typora-setup        | md编辑器     |
+| 6    | FileLocator Pro     | 文件搜索软件 |
+
