@@ -17,3 +17,18 @@
 | 15   | IDM                         | 下载工具                                  |
 | 16   | BitComet                    | 比特彗星下载器（解压即用） 隐藏功能解锁版 |
 | 17   | uTools-1.3.5                | 继集成了很多插件的桌面助手                |
+
++ 开发相关
+
+| 编号 | 名称                           | 作用                   |
+|------|--------------------------------|------------------------|
+| 1    | Git-2.38.1-64-bit              | exe和lib位数的比对工具 |
+| 2    | MobaXterm_Portable_v23.0       | 终端工具               |
+| 3    | PuTTY_0.67.0.0                 | 终端工具               |
+| 4    | Xshell-7.0.0115p               | 终端工具               |
+| 5    | vs_community_2017_version_15.3 | vs2017                 |
+| 6    | vs_community_2019_16.11        | vs2019                 |
+| 7    | VSCodeUserSetup-x64-1.72.2     | 最新的vs               |
+| 8    | TODO add qt online install     |                        |
+| 9    | python-3.9.13-amd64            |                        |
+| 10   | DirectX修复工具                |                        |
