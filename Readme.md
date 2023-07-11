@@ -17,6 +17,8 @@
 | 15   | IDM                         | 下载工具                                  |
 | 16   | BitComet                    | 比特彗星下载器（解压即用） 隐藏功能解锁版 |
 | 17   | uTools-1.3.5                | 继集成了很多插件的桌面助手                |
+| 18   | winrar_5.90                 |                                           |
+| 19   | uiso9_cn.exe                | window上的iso工具                         |
 
 + 开发相关
 
@@ -32,6 +34,7 @@
 | 8    | TODO add qt online install     |                        |
 | 9    | python-3.9.13-amd64            |                        |
 | 10   | DirectX修复工具                |                        |
+| 11   | winsdksetup                    |                        |
 
 + 其他
 
@@ -43,4 +46,7 @@
 | 4    | VLCmediaplaye       |              |
 | 5    | typora-setup        | md编辑器     |
 | 6    | FileLocator Pro     | 文件搜索软件 |
+| 7    | 明朝那些事儿.zip    |              |
+| 8    | BTSync-1.4.111.exe  |              |
+| 9    | tsetup.4.5.3.exe    |              |
 
