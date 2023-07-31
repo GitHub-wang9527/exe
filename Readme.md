@@ -35,6 +35,9 @@
 | 9    | python-3.9.13-amd64            |                        |
 | 10   | DirectX修复工具                |                        |
 | 11   | winsdksetup                    |                        |
+| 12   | ProcessExplorer                | 监控进程的文件、网络、注册表等访问;定位崩溃、死锁、DLL问题|
+| 13   | ProcessMonitor                 | 查看进程详细信息;检测句柄泄露、DLL问题 |
+| 14   | VMMap                          | 检查内存泄露、碎片等问题 |
 
 + 其他
 
