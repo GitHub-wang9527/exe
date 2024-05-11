@@ -19,6 +19,7 @@
 | 17   | uTools-1.3.5                | 继集成了很多插件的桌面助手                |
 | 18   | Bandzip-x64.exe             | 现在使用的压缩工具                         |
 | 19   | uiso9_cn.exe                | window上的iso工具                         |
+| 20   | pot_2.7.9_x64-setup.exe     | 划词/截图翻译                 |
 
 + 开发相关
 
@@ -38,6 +39,7 @@
 | 12   | ProcessExplorer                | 监控进程的文件、网络、注册表等访问;定位崩溃、死锁、DLL问题|
 | 13   | ProcessMonitor                 | 查看进程详细信息;检测句柄泄露、DLL问题 |
 | 14   | VMMap                          | 检查内存泄露、碎片等问题 |
+| 15   |qt-unified-windows-x64-4.7.0-online.exe | qt在线安装包|
 
 + 其他
 
